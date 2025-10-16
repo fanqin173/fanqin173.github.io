@@ -1,5 +1,3 @@
-I am a third-year Ph.D. student in Health Data Science at the [National Institute of Health Data Science](https://www.nihds.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). I am fortunate to be advised by [Prof. XX](). My research interests include AI for ECG (AI-ECG), medical time-series data, and digital health tools.
+I am a first-year graduate student in Internal Medicine at [Peking University International Hospital](https://www.pkuih.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interests include immunological mechanisms of small-vessel vasculitis.
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
-
-[Email](mailto:xxx@stu.pku.edu.cn) / [Github](https://github.com/xxx) / [Wechat](../images/wechat.jpg) 
+[Email](mailto:3318283243@qq.com) / [Github](https://fanqin173.github.io)
