@@ -97,7 +97,7 @@ permalink: /portfolio/hospital-management-analysis
 date: 2025-11-26
 excerpt: "通过数据分析优化医院资源配置，提升运营效率"
 header:
-  teaser: /images/portfolio/hospital-management-analysis/department_distribution.png
+  teaser: /_portfolio/output_15_0.png
 tags:
   - 医院管理
   - 数据分析
