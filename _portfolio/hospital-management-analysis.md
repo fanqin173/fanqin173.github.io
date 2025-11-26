@@ -142,7 +142,7 @@ df[['Age', 'Stay']] = df[['Age', 'Stay']].replace('Nov-20', '11-20')
 **分析结论**：中等严重程度患者占比最高（XX%），医院需重点优化该群体的护理流程。
 
 #### 入院类型与住院时长关系
-![入院类型与住院时长关系](/images/portfolio/hospital-management-analysis/admission_stay_relation.png)  
+![入院类型与住院时长关系](/_portfolio/output_14_0.png)  
 **分析结论**：外伤入院患者住院时长普遍较长，需针对性提升护理效率。
 
 #### 相关性矩阵分析
