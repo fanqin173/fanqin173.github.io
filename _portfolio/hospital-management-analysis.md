@@ -134,7 +134,7 @@ df[['Age', 'Stay']] = df[['Age', 'Stay']].replace('Nov-20', '11-20')
 ### 可视化分析
 
 #### 科室分布分析
-![科室分布](/images/portfolio/hospital-management-analysis/department_distribution.png)  
+![科室分布](/_portfolio/output_11_0.png)  
 **分析结论**：放疗科和妇科占比最高，分别为XX%和XX%，反映这两个科室患者流量较大。
 
 #### 疾病严重程度分析
