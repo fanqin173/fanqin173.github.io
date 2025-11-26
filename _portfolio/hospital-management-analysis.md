@@ -33,7 +33,7 @@ plt.pie(department_count['case_id'], labels=department_count['Department'], auto
 plt.title('Distribution of case_id by Department')
 plt.show()
 ```
-**图片保存**：`/images/portfolio/hospital-management-analysis/department_distribution.png`  
+**图片保存**：`/_portfolio/output_11_0.png`  
 **分析结论**：放疗科和妇科占比最高，分别为XX%和XX%，反映这两个科室患者流量较大。
 
 #### 疾病严重程度分析
