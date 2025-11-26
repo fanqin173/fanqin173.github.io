@@ -34,7 +34,7 @@ plt.title('Distribution of case_id by Department')
 plt.show()
 ```
 **图片保存**：`/_portfolio/output_11_0.png`  
-**分析结论**：放疗科和妇科占比最高，分别为XX%和XX%，反映这两个科室患者流量较大。
+**分析结论**：放疗科和妇科占比最高，分别为78.3%和9.3%，反映这两个科室患者流量较大。
 
 #### 疾病严重程度分析
 ```python
@@ -49,7 +49,7 @@ plt.ylabel('Patient Count')
 plt.title('Patient Count by Severity of Illness')
 plt.show()
 ```
-**图片保存**：`/images/portfolio/hospital-management-analysis/severity_distribution.png`  
+**图片保存**：`/_portfolio/output_12_0.png`  
 **分析结论**：中等严重程度患者占比最高（XX%），医院需重点优化该群体的护理流程。
 
 #### 入院类型与住院时长关系
